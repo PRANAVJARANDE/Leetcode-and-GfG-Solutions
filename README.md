@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Welcome to the LeetCode Solutions repository! This repository contains solutions to over **1100+ LeetCode problems**. Whether you're preparing for coding interviews or looking to improve your problem-solving skills, this repository provides a comprehensive collection of solutions across various difficulties.
+Welcome to the LeetCode Solutions repository! This repository contains solutions to over **1400+ LeetCode and 150+ GFG problems**. Whether you're preparing for coding interviews or looking to improve your problem-solving skills, this repository provides a comprehensive collection of solutions across various difficulties.
 
 ## Problem Categories and Repository Structure
 
@@ -25,6 +25,6 @@ Contributions are welcome! If you have suggestions for improvements or additiona
 For any questions or feedback, please reach out:
 
 - **GitHub:** [PRANAVJARANDE]([https://github.com/yourusername](https://github.com/PRANAVJARANDE))
-- **Email:** pranavjarande@gmail.com
+- **Email:** pranavjarande27@gmail.com
 
 
