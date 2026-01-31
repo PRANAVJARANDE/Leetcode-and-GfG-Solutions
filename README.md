@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Welcome to the LeetCode Solutions repository! This repository contains solutions to over **1400+ LeetCode and 150+ GFG problems**. Whether you're preparing for coding interviews or looking to improve your problem-solving skills, this repository provides a comprehensive collection of solutions across various difficulties.
+Welcome to the LeetCode Solutions repository! This repository contains solutions to over **1450+ LeetCode and 200+ GFG problems**. Whether you're preparing for coding interviews or looking to improve your problem-solving skills, this repository provides a comprehensive collection of solutions across various difficulties.
 
 ## Problem Categories and Repository Structure
 
